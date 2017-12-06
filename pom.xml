@@ -115,7 +115,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>myapp.engine.storm.topology.ImpromptuTopology</mainClass>
+                            <mainClass>myapp.storm.topology.ImpromptuTopology</mainClass>
                         </manifest>
                     </archive>
 

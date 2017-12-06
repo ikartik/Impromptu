@@ -1,4 +1,4 @@
-package myapp.engine.misc;
+package myapp.misc;
 
 public class Range {
 

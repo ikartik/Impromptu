@@ -1,7 +1,7 @@
-package myapp.engine.storm.topology.bolts;
+package myapp.storm.bolts;
 
-import myapp.engine.misc.Constant;
-import myapp.engine.misc.Range;
+import myapp.misc.Constant;
+import myapp.misc.Range;
 import org.apache.storm.task.OutputCollector;
 import org.apache.storm.task.TopologyContext;
 import org.apache.storm.topology.OutputFieldsDeclarer;

@@ -1,9 +1,8 @@
-package myapp.engine.storm.topology;
+package myapp.storm.topology;
 
-import myapp.engine.misc.Constant;
-import myapp.engine.storm.topology.bolts.AggBolt;
-import myapp.engine.storm.topology.bolts.BaseBolt;
-import myapp.engine.storm.topology.bolts.CustomBolt;
+import myapp.misc.Constant;
+import myapp.storm.bolts.AggBolt;
+import myapp.storm.bolts.BaseBolt;
 import org.apache.storm.Config;
 import org.apache.storm.StormSubmitter;
 import org.apache.storm.generated.AlreadyAliveException;
